@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JIWOONG
-- 👀 I’m interested in Deaplearing
+- 👀 I’m interested in Deep-learing
 - 🌱 I’m currently learning Tensorflow.keras
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me jwlee030117@gmail.com
